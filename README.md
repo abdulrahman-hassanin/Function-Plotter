@@ -3,6 +3,10 @@
 ## Introduction
 Python GUI program that plots arbitrary user-entered function using [PySide2](https://pypi.org/project/PySide2/).
 
+<p align="center">
+  <img height="300" src="img/App.png">
+</p>
+
 ## Requirments
 * App requirments 
 ```python
