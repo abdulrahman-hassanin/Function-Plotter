@@ -1,5 +1,4 @@
 import sys
-import time
 import numpy as np
 
 from PySide2 import QtWidgets
