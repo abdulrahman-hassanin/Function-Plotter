@@ -2,7 +2,6 @@ import pytest
 from PySide2 import QtCore
 import app
 
-
 @pytest.fixture
 def app(qtbot):
     test_app = app.ApplicationWindow()
